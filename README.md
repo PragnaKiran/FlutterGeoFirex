@@ -1,3 +1,7 @@
+VedantLtd has created GeoFirexFlutter branch with it's own use and convenience we don't cliam anything and do not promis anything. 
+
+FlutterGeoFirex is forked from :fire:GeoFlutterFire:fire: is an open-source library that allows you to store and query firestore documents based on their geographic location.
+
 # geoflutterfire_example
 
 Demonstrates how to use the geoflutterfire plugin.
